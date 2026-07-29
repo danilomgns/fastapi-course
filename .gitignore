@@ -1,0 +1,5 @@
+.env
+banco.db
+.venv
+__pycache__/
+versions/
